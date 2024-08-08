@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vitor 
-- 👀 I’m interested in Tec
+- 👀 I’m interested in develop
 - 📫 I am from Brasil
 
 <!---
