@@ -1,5 +1,5 @@
 <h1>Prazer!! vitor.<br></h1>
-sou estudante do Instituto Federal de São Paulo.
+sou estudante do Instituto Federal de São Paulo, ainda estou aprendendo muita coisa.
 
 ![Vitorram GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitorram&hide=contribs,prs)
 
