@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_vit_rm/profilecard/?igsh=a2xvYW52aXBoODF0)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/vitor-ramos-menezes-a584291b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-<h3>sou estudante do Instituto Federal de São Paulo, ainda estou aprendendo muita coisa.</h3><img src="https://www.svgrepo.com/show/405433/flag-for-flag-brazil.svg">
+<h3>sou estudante do Instituto Federal de São Paulo, ainda estou aprendendo muita coisa.</h3>
 
 
 ![Vitorram GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitorram&hide=contribs,prs)
