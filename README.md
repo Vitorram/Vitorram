@@ -1,4 +1,8 @@
 <h1>Prazer!! vitor.<br></h1>
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_vit_rm/profilecard/?igsh=a2xvYW52aXBoODF0)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/vitor-ramos-menezes-a584291b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 <h3>sou estudante do Instituto Federal de São Paulo, ainda estou aprendendo muita coisa.</h3>
 
 ![Vitorram GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitorram&hide=contribs,prs)
@@ -10,4 +14,11 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   
-</div><br/>
+</div>
+<br>
+<div style="width: 200px;">
+<a href="https://github.com/Vitorram/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorram&langs_count=8" alt="Top Langs" />
+</a>
+</div>
+
