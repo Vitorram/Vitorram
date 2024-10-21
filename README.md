@@ -26,6 +26,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorram&langs_count=8" alt="Top Langs" />
 </a>
 </div>
+   
+</div>
 
 
 
