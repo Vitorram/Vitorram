@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/740cbaf3-003b-4f66-969a-50e53e445c60)
+
 
 <h1>Prazer!! vitor.<br></h1>
 
