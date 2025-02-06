@@ -19,7 +19,7 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="c" src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img align="center" alt="c" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img align="center" alt="c" src="https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png&logo=python&logoColor=ffdd54" />
+  
 
   
 </div>
