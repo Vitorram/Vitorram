@@ -2,7 +2,7 @@
 
 <h1>Prazer!! vitor.<br></h1>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_vit_rm/profilecard/?igsh=a2xvYW52aXBoODF0)
+
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/vitor-ramos-menezes-a584291b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 <div>
    <p><h3><i><a href="https://www.ifsp.edu.br/">Instituto Federal de Sao Paulo-Brasil</a></i></h3><img style = "width: 40px; height: 40px;" src="https://www.svgrepo.com/show/405433/flag-for-flag-brazil.svg"></p>
