@@ -1,7 +1,8 @@
 <h1>Prazer!! Vitor.<br></h1>
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/vitor-ramos-menezes-a584291b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://portfolio-sandy-xi-39.vercel.app/)
+[<img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=githubpages&logoColor=white">](https://portfolio-sandy-xi-39.vercel.app/)
+
 
 <div>
    <p><h3><i><a href="https://www.ifsp.edu.br/">Instituto Federal de São Paulo - Brasil</a></i></h3>
