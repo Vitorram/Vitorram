@@ -12,14 +12,16 @@
 ---
 
 <h3>🧑‍💻 Sobre mim</h3>
-<p>Sou estudante do IFSP, apaixonado por tecnologia e sempre buscando aprender e crescer na área da programação. Estou explorando linguagens como Python, JS, entre outras. Aqui você vai encontrar meus projetos, estudos e muita vontade de evoluir!</p>
+<p>Estou sempre em busca de aprender e crescer na área da programação. Comecei há pouco tempo, então ainda não tenho nada muito elaborado, mas estou explorando linguagens como Python, JavaScript, PHP, entre outras. Aqui você vai encontrar meus projetos, estudos e, acima de tudo, muita vontade de evoluir!</p>
+
+<img style="width: 600px; height: 300px;" src="https://i.pinimg.com/originals/84/88/68/848868e3b80073d40f423ac93a61a5d5.gif" alt="Top Langs" />
 
 ---
 
 ![Vitorram GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitorram&hide=contribs,prs)
 
 <div style="display: inline_block">
-   <h3><i>O que estou estudando</i></h3>
+   <h3><i>Tech</i></h3>
    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
    <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
    <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
