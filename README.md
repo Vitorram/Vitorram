@@ -1,39 +1,80 @@
-<h1>Prazer!! Vitor.<br></h1>
+<p align="center">
+  <img src="https://media-public.canva.com/MADnJiyqVCc/2/thumbnail.png" alt="Logo" width="120" />
+</p>
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/vitor-ramos-menezes-a584291b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[<img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logoColor=white">](https://portfolio-sandy-xi-39.vercel.app/)
+<h1 align="center">Prazer, Vitor 👋</h1>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/vitor-ramos-menezes-a584291b0">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://portfolio-sandy-xi-39.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logoColor=white" alt="Portfólio" />
+  </a>
+</p>
 
-<div>
-   <p><h3><i><a href="https://www.ifsp.edu.br/">Instituto Federal de São Paulo - Brasil</a></i></h3>
-   <img style="width: 40px; height: 40px;" src="https://www.svgrepo.com/show/405433/flag-for-flag-brazil.svg"></p>
+---
+
+<div align="center">
+  <h3><i><a href="https://www.ifsp.edu.br/">Instituto Federal de São Paulo - Brasil</a></i></h3>
+  <img src="https://www.svgrepo.com/show/405433/flag-for-flag-brazil.svg" width="32" alt="Brasil">
 </div>
 
 ---
 
-<h3>🧑‍💻 Sobre mim</h3>
-<p>Estou sempre em busca de aprender e crescer na área da programação. Comecei há pouco tempo, então ainda não tenho nada muito elaborado, mas estou explorando linguagens como Python, JavaScript, PHP, entre outras. Aqui você vai encontrar meus projetos, estudos e, acima de tudo, muita vontade de evoluir!</p>
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <div style="flex: 1; min-width: 200px;">
+    
+### 🧑‍💻 Sobre mim
+Estou sempre em busca de aprender e crescer na área de programação.  
+Comecei há pouco tempo, então ainda estou explorando linguagens como Python, JavaScript, PHP, Java, entre outras.  
+Aqui no GitHub você vai encontrar meus projetos, estudos e, acima de tudo, muita vontade de evoluir!
 
-<img style="width: 600px; height: 300px;" src="https://i.pinimg.com/originals/84/88/68/848868e3b80073d40f423ac93a61a5d5.gif" alt="Top Langs" />
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="https://i.pinimg.com/originals/e6/80/2d/e6802d9c0538e25efed9d1cdf3414af9.gif" alt="Coding GIF" width="250" style="border-radius: 8px;" />
+  </div>
+</div>
 
 ---
 
-![Vitorram GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitorram&hide=contribs,prs)
+## 🚀 o que estou aprendendo
 
-<div style="display: inline_block">
-   <h3><i>Tech</i></h3>
-   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-   <img align="center" alt="c" src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-   <img align="center" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/MySQL-003545?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
 </div>
 
-<br>
+---
 
-<div style="width: 200px;">
-   <a href="https://github.com/Vitorram/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorram&langs_count=8" alt="Top Langs" />
-   </a>
+## 📂 Meus Projetos
+
+| Projeto                   | Descrição                                                     | Linguagens            | Link                                            |
+|---------------------------|---------------------------------------------------------------|-----------------------|-------------------------------------------------|
+| API em Node.js + MVC      | Exemplo de arquitetura MVC e endpoints REST                   | JavaScript, Node.js   | [Repositório](https://github.com/Vitorram/api-node-mvc)     |
+
+---
+
+## 📈 Estatísticas
+
+<div align="center">
+  <!-- Estatísticas gerais e linguagens mais usadas -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Vitorram&count_private=true&include_all_commits=true&show_icons=true&theme=dark" alt="Total Commits" width="48%" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorram&langs_count=8&theme=dark&layout=compact" alt="Top Languages" width="48%" />
+
 </div>
+<p align="center">
+  <!-- Mario andando -->
+  <img src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif" alt="Mario Walking" width="200"/>
+</p>
+------------
+
+> “Dinheiro vai, dinheiro vem e uns falam que é nois só pelas de 100.”  
+> –  MEDLEY FUNK 1
+
