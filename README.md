@@ -69,7 +69,6 @@ Aqui no GitHub você vai encontrar meus projetos, estudos e, acima de tudo, muit
   <img src="https://github-readme-stats.vercel.app/api?username=Vitorram&count_private=true&include_all_commits=true&show_icons=true&theme=dark" alt="Total Commits" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorram&langs_count=8&theme=dark&layout=compact" alt="Top Languages" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vitorram&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="Contribution Streak" width="45%" />
-  <img src="https://github-contributions.vercel.app/api?username=Vitorram&theme=dracula&radius=10&scale=1.2"/>
 </div>
 
  
