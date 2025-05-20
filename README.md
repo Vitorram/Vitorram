@@ -98,6 +98,7 @@ Aqui no GitHub você vai encontrar meus projetos, estudos e, acima de tudo, muit
   <!-- Mario andando -->
   <img src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif" alt="Mario Walking" width="200"/>
 </p>
+
 ---
 
 > “Dinheiro vai, dinheiro vem e uns falam que é nois só pelas de 100.”  
