@@ -101,6 +101,4 @@ Aqui no GitHub você vai encontrar meus projetos, estudos e, acima de tudo, muit
 
 ---
 
-> “Dinheiro vai, dinheiro vem e uns falam que é nois só pelas de 100.”  
-> –  MEDLEY FUNK 1
-
+> Não somos fora da lei, porque a lei quem faz é nós
