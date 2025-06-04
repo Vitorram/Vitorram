@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://media-public.canva.com/MADnJiyqVCc/2/thumbnail.png" alt="Logo" width="120" />
-</p>
 
 <h1 align="center">Prazer, Vitor 👋</h1>
 
