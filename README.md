@@ -56,6 +56,11 @@ Aqui no GitHub você vai encontrar meus projetos, estudos e, acima de tudo, muit
 |---------------------------|---------------------------------------------------------------|-----------------------|-------------------------------------------------|
 | API em Node.js + MVC      | Exemplo de arquitetura MVC e endpoints REST                   | JavaScript, Node.js   | [Repositório](https://github.com/Vitorram/api-node-mvc)     |
 
+| Projeto                   | Descrição                                                     | Linguagens            | Link                                            |
+|---------------------------|---------------------------------------------------------------|-----------------------|-------------------------------------------------|
+| ContaBancaria em Java     | Sistema de gerenciamento de contas bancárias                  | JAVA                  | [Repositório](https://github.com/Vitorram/GerenciadorContaBancaria)     |
+
+
 ---
 
 ## 📈 Estatísticas
