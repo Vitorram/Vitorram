@@ -1,106 +1,100 @@
-
-<h1 align="center">Prazer, Vitor 👋</h1>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vitor-ramos-menezes-a584291b0">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://portfolio-sandy-xi-39.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logoColor=white" alt="Portfólio" />
-  </a>
-</p>
-
----
-
 <div align="center">
-  <h3><i><a href="https://www.ifsp.edu.br/">Instituto Federal de São Paulo - Brasil</a></i></h3>
-  <img src="https://www.svgrepo.com/show/405433/flag-for-flag-brazil.svg" width="32" alt="Brasil">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=75F056&center=true&vCenter=true&width=435&lines=Hello,+I'm+Vitor!;Full+Stack+Student;Building+the+Future" alt="Typing SVG" />
+  
+  <p>
+    <a href="https://www.linkedin.com/in/vitor-ramos-menezes-a584291b0">
+      <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://portfolio-sandy-xi-39.vercel.app/">
+      <img src="https://img.shields.io/badge/PORTFOLIO-1da1f2?style=for-the-badge&logo=codepen&logoColor=white&color=black" />
+    </a>
+  </p>
 </div>
 
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <div style="flex: 1; min-width: 200px;">
-    
-### 🧑‍💻 Sobre mim
-Estou sempre em busca de aprender e crescer na área de programação.  
-Comecei há pouco tempo, então ainda estou explorando linguagens como Python, JavaScript, PHP, Java, entre outras.  
-Aqui no GitHub você vai encontrar meus projetos, estudos e, acima de tudo, muita vontade de evoluir!
-
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <img src="https://i.pinimg.com/originals/e6/80/2d/e6802d9c0538e25efed9d1cdf3414af9.gif" alt="Coding GIF" width="250" style="border-radius: 8px;" />
-  </div>
-</div>
-
----
-
-## 🚀 o que estou aprendendo
-
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/MySQL-003545?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-</div>
-
----
-
-## 📂 Meus Projetos
-
-| Projeto                   | Descrição                                                     | Linguagens            | Link                                            |
-|---------------------------|---------------------------------------------------------------|-----------------------|-------------------------------------------------|
-| API em Node.js + MVC      | Exemplo de arquitetura MVC e endpoints REST                   | JavaScript, Node.js   | [Repositório](https://github.com/Vitorram/api-node-mvc)     |
-
-| Projeto                   | Descrição                                                     | Linguagens            | Link                                            |
-|---------------------------|---------------------------------------------------------------|-----------------------|-------------------------------------------------|
-| ContaBancaria em Java     | Sistema de gerenciamento de contas bancárias                  | JAVA                  | [Repositório](https://github.com/Vitorram/GerenciadorContaBancaria)     |
-
-
----
-
-## 📈 Estatísticas
-
-<div align="center">
-  <!-- Estatísticas gerais e linguagens mais usadas -->
 <table>
   <tr>
-    <!-- Coluna esquerda: duas imgs empilhadas -->
-    <td valign="top">
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=Vitorram&count_private=true&include_all_commits=true&show_icons=true&theme=dark" 
-        alt="Total Commits" 
-        width="300"
-      /><br><br>
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorram&langs_count=8&theme=dark&layout=compact" 
-        alt="Top Languages" 
-        width="300"
-      />
+    <td width="50%" valign="center">
+      <h2>⚡ About Me</h2>
+      <p>
+        I am currently a student at <b>IFSP - Brazil</b>, focused on becoming a complete Full Stack Developer.
+      </p>
+      <p>
+        🚀 <b>Focus:</b> Mastering Backend (Java/Node) and exploring Frontend architectures.<br>
+        💡 <b>Goal:</b> Turn complex problems into clean code.
+      </p>
+      <br>
+      <img src="https://img.shields.io/badge/Focus-Evolution-success?style=flat-square" />
+      <img src="https://img.shields.io/badge/Location-Brazil-blue?style=flat-square" />
     </td>
-    <td>
-      <img 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Vitorram&theme=dark&date_format=M%20j%5B%2C%20Y%5D" 
-        alt="Contribution Streak" 
-        width="400"
-      />
+    <td width="50%" align="center">
+       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
 
- 
+---
 
+<h2 align="center">🏆 Achievements & Activity</h2>
 
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Vitorram&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="100%" />
+  </a>
+  <br><br>
 </div>
-<p align="center">
-  <!-- Mario andando -->
-  <img src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif" alt="Mario Walking" width="200"/>
-</p>
 
 ---
 
-> Não somos fora da lei, porque a lei quem faz é nós
+<h2 align="center">🛠️ Tech Toolbox</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" /><br>Java
+      </td>
+      <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /><br>Python
+      </td>
+      <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JS" /><br>JS
+      </td>
+      <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" /><br>PHP
+      </td>
+      <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" /><br>MySQL
+      </td>
+      <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node" /><br>Node.js
+      </td>
+      <td align="center" width="90">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel" /><br>Laravel
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📂 Featured Projects
+
+| 🖥️ Project | 📝 Description | 🛠️ Tech | 🔗 Access |
+| :--- | :--- | :--- | :--- |
+| **API Node MVC** | REST API architecture using MVC pattern. | `Node.js` `Express` | <a href="https://github.com/Vitorram/api-node-mvc"><img src="https://img.shields.io/badge/View_Repo-238636?style=for-the-badge&logo=github&logoColor=white" height="25"/></a> |
+| **Bank Manager** | Banking system with strict OOP principles. | `Java` `POO` | <a href="https://github.com/Vitorram/GerenciadorContaBancaria"><img src="https://img.shields.io/badge/View_Repo-238636?style=for-the-badge&logo=github&logoColor=white" height="25"/></a> |
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vitorram&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorram&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="languages graph" />
+</div>
+
+<br>
+
+<p align="center">
+ <i>"We aren't outlaws, we make the rules."</i> 🚀
+</p>
