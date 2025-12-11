@@ -34,16 +34,6 @@
   </tr>
 </table>
 
----
-
-<h2 align="center">🏆 Achievements & Activity</h2>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Vitorram&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="100%" />
-  </a>
-  <br><br>
-</div>
 
 ---
 
@@ -87,11 +77,6 @@
 | **Bank Manager** | Banking system with strict OOP principles. | `Java` `POO` | <a href="https://github.com/Vitorram/GerenciadorContaBancaria"><img src="https://img.shields.io/badge/View_Repo-238636?style=for-the-badge&logo=github&logoColor=white" height="25"/></a> |
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vitorram&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorram&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="languages graph" />
-</div>
 
 <br>
 
