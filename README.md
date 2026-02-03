@@ -69,6 +69,7 @@
 | :--- | :--- | :--- | :--- |
 | **API Node MVC** | REST API architecture using MVC pattern. | `Node.js` `Express` | <a href="https://github.com/Vitorram/api-node-mvc"><img src="https://img.shields.io/badge/View_Repo-238636?style=for-the-badge&logo=github&logoColor=white" height="25"/></a> |
 | **Bank Manager** | Banking system with strict OOP principles. | `Java` `POO` | <a href="https://github.com/Vitorram/GerenciadorContaBancaria"><img src="https://img.shields.io/badge/View_Repo-238636?style=for-the-badge&logo=github&logoColor=white" height="25"/></a> |
+| **API GEMINI** | AI system with strict AI principles. | `Python` `Gemini` | <a href="https://github.com/Vitorram/GerenciadorContaBancaria"><img src="https://img.shields.io/badge/View_Repo-238636?style=for-the-badge&logo=github&logoColor=white" height="25"/></a> |
 
 ---
 
