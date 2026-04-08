@@ -1,80 +1,53 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=75F056&center=true&vCenter=true&width=435&lines=Hello,+I'm+Vitor!;Full+Stack+Student;Building+the+Future" alt="Typing SVG" />
-  
-  <p>
-    <a href="https://www.linkedin.com/in/vitor-ramos-menezes-a584291b0">
-      <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://portfolio-sandy-xi-39.vercel.app/">
-      <img src="https://img.shields.io/badge/PORTFOLIO-1da1f2?style=for-the-badge&logo=codepen&logoColor=white&color=black" />
-    </a>
-  </p>
+  <a href="https://www.linkedin.com/in/vitor-ramos-menezes-a584291b0">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://portfolio-sandy-xi-39.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+  </a>
+
 </div>
 
 ---
 
-<table>
-  <tr>
-    <td width="50%" valign="center">
-      <h2>⚡ About Me</h2>
-      <p>
-        I am currently a student at <b>IFSP - Brazil</b>, focused on becoming a complete Full Stack Developer.
-      </p>
-      <p>
-        🚀 <b>Focus:</b> Mastering Backend (Java/Node) and exploring Frontend architectures.<br>
-        💡 <b>Goal:</b> Turn complex problems into clean code.
-      </p>
-      <br>
-      <img src="https://img.shields.io/badge/Focus-Evolution-success?style=flat-square" />
-      <img src="https://img.shields.io/badge/Location-Brazil-blue?style=flat-square" />
-    </td>
-    <td width="50%" align="center">
-       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" style="border-radius: 10px;" />
-    </td>
-  </tr>
-</table>
+## ⚡ About Me
 
+Student at **IFSP - Brazil**, focused on becoming a complete Full Stack Developer.
+
+- 🚀 **Focus:** Backend with FastAPI/Python and Frontend architectures
+- 💡 **Goal:** Turn complex problems into clean, scalable code
+- 📍 **Location:** Brazil
 
 ---
 
-<h2 align="center">🛠️ Tech Toolbox</h2>
+## 🛠️ Tech Stack
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /><br>Python
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="Python" /><br>React
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JS" /><br>JS
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" /><br>MySQL
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node" /><br>Node.js
-      </td>
-    </tr>
-  </table>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 </div>
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projects
 
-| 🖥️ Project | 📝 Description | 🛠️ Tech | 🔗 Access |
-| :--- | :--- | :--- | :--- |
-| **API Node MVC** | REST API architecture using MVC pattern. | `Node.js` `Express` | <a href="https://github.com/Vitorram/api-node-mvc"><img src="https://img.shields.io/badge/View_Repo-238636?style=for-the-badge&logo=github&logoColor=white" height="25"/></a> |
-| **Bank Manager** | Banking system with strict OOP principles. | `Java` `POO` | <a href="https://github.com/Vitorram/GerenciadorContaBancaria"><img src="https://img.shields.io/badge/View_Repo-238636?style=for-the-badge&logo=github&logoColor=white" height="25"/></a> |
-| **API GEMINI** | AI system with strict AI principles. | `Python` `Gemini` | <a href="https://github.com/Vitorram/VBOT"><img src="https://img.shields.io/badge/View_Repo-238636?style=for-the-badge&logo=github&logoColor=white" height="25"/></a> |
+| Project | Description | Tech | Repo |
+| :--- | :--- | :--- | :---: |
+| **API FastAPI Completo** | Full REST API with auth, routes and best practices. | `Python` `FastAPI` `Docker` | [![Repo](https://img.shields.io/badge/View-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/Vitorram/Api_FastAPI_completo) |
+| **API Node MVC** | REST API using MVC pattern with Express. | `Node.js` `Express` | [![Repo](https://img.shields.io/badge/View-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/Vitorram/api-node-mvc) |
+| **Bank Manager** | Banking system built with OOP principles. | `Java` `OOP` | [![Repo](https://img.shields.io/badge/View-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/Vitorram/GerenciadorContaBancaria) |
+| **VBOT** | AI chatbot powered by Gemini. | `Python` `Gemini` | [![Repo](https://img.shields.io/badge/View-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/Vitorram/VBOT) |
 
 ---
 
-<br>
-
 <p align="center">
- <i>"We aren't outlaws, we make the rules."</i> 🚀
+  <i>"We aren't outlaws, we make the rules."</i> 🚀
 </p>
