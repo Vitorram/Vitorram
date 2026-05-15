@@ -1,28 +1,14 @@
 <div align="center">
+  <h1>Olá </h1>
+
   <a href="https://www.linkedin.com/in/vitor-ramos-menezes-a584291b0">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://portfolio-sandy-xi-39.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=codepen&logoColor=white" />
   </a>
 </div>
-
----
-
-## About Me
-
-Student at IFSP - Brazil, focused on Full Stack Development.
-
-I enjoy building scalable applications and improving both backend architecture and frontend experience.
-
-Currently focused on:
-
-- Python
-- FastAPI
-- JavaScript
-- React
-- MySQL
-- Docker
 
 ---
 
