@@ -11,7 +11,7 @@
   </p>
 
   <p>
-    <a href="https://www.linkedin.com/in/vitor-ramos-menezes-a584291b0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;<a href="https://portfolio-sandy-xi-39.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/></a>
+    <a href="https://www.linkedin.com/in/vitor-ramos-menezes-a584291b0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;<a href="https://portfolio-master-nu-beige.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/></a>
   </p>
 </div>
 
