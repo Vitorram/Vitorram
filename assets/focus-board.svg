@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title description">
+  <title id="title">Painel de foco técnico de Vitor Ramos Menezes</title>
+  <desc id="description">Resumo visual das áreas de atuação, aprendizado e ferramentas de Vitor.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070A12"/>
+      <stop offset="1" stop-color="#0B1020"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset=".5" stop-color="#3B82F6"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#60A5FA" fill-opacity=".06"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="250" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="250" rx="18" fill="url(#dots)"/>
+  <rect x="1" y="1" width="1198" height="248" rx="17" fill="none" stroke="#24324C" stroke-width="2"/>
+
+  <g font-family="DejaVu Sans Mono, Consolas, Courier New, monospace">
+    <text x="30" y="35" fill="#A78BFA" font-size="13">$ ./current-focus</text>
+    <text x="1170" y="35" text-anchor="end" fill="#475569" font-size="10">SIGNAL: ACTIVE</text>
+    <rect x="30" y="49" width="1140" height="2" rx="1" fill="url(#line)"/>
+
+    <g transform="translate(30 70)">
+      <rect width="270" height="136" rx="12" fill="#0D1422" stroke="#253653"/>
+      <rect width="5" height="136" rx="2.5" fill="#22D3EE"/>
+      <text x="24" y="31" fill="#64748B" font-size="10" letter-spacing="1.5">MAIN LANE</text>
+      <text x="24" y="65" fill="#F8FAFC" font-size="20" font-weight="700">BACKEND APIs</text>
+      <text x="24" y="92" fill="#94A3B8" font-size="11">contratos · regras · segurança</text>
+      <text x="24" y="116" fill="#67E8F9" font-size="11">PYTHON / FASTAPI</text>
+    </g>
+
+    <g transform="translate(320 70)">
+      <rect width="270" height="136" rx="12" fill="#0D1422" stroke="#253653"/>
+      <rect width="5" height="136" rx="2.5" fill="#8B5CF6"/>
+      <text x="24" y="31" fill="#64748B" font-size="10" letter-spacing="1.5">NOW LEARNING</text>
+      <text x="24" y="65" fill="#F8FAFC" font-size="20" font-weight="700">C# + .NET</text>
+      <text x="24" y="92" fill="#94A3B8" font-size="11">orientação a objetos · Web API</text>
+      <text x="24" y="116" fill="#C4B5FD" font-size="11">ASP.NET CORE</text>
+    </g>
+
+    <g transform="translate(610 70)">
+      <rect width="270" height="136" rx="12" fill="#0D1422" stroke="#253653"/>
+      <rect width="5" height="136" rx="2.5" fill="#3B82F6"/>
+      <text x="24" y="31" fill="#64748B" font-size="10" letter-spacing="1.5">DATA LAYER</text>
+      <text x="24" y="65" fill="#F8FAFC" font-size="20" font-weight="700">RELATIONAL DB</text>
+      <text x="24" y="92" fill="#94A3B8" font-size="11">modelagem · migrations · SQL</text>
+      <text x="24" y="116" fill="#93C5FD" font-size="11">MYSQL / POSTGRESQL</text>
+    </g>
+
+    <g transform="translate(900 70)">
+      <rect width="270" height="136" rx="12" fill="#0D1422" stroke="#253653"/>
+      <rect width="5" height="136" rx="2.5" fill="url(#line)"/>
+      <text x="24" y="31" fill="#64748B" font-size="10" letter-spacing="1.5">DELIVERY</text>
+      <text x="24" y="65" fill="#F8FAFC" font-size="20" font-weight="700">CLOUD + CONTAINERS</text>
+      <text x="24" y="92" fill="#94A3B8" font-size="11">ambientes reproduzíveis</text>
+      <text x="24" y="116" fill="#A5B4FC" font-size="11">DOCKER / AWS / GIT</text>
+    </g>
+
+    <text x="600" y="232" text-anchor="middle" fill="#475569" font-size="10">REAL PROBLEM → CLEAR RULE → SECURE API → USEFUL DELIVERY</text>
+  </g>
+</svg>
