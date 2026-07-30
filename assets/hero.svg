@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title description">
+  <title id="title">Perfil de Vitor Ramos Menezes em uma interface de terminal</title>
+  <desc id="description">Apresentação visual de Vitor como desenvolvedor backend, estudante do IFSP e profissional aberto a oportunidades.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070A12"/>
+      <stop offset=".55" stop-color="#0A1020"/>
+      <stop offset="1" stop-color="#090716"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset=".5" stop-color="#3B82F6"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#10182B"/>
+      <stop offset="1" stop-color="#0A0E19"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#60A5FA" stroke-opacity=".045"/>
+    </pattern>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="460" rx="18" fill="url(#background)"/>
+  <rect width="1200" height="460" rx="18" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="458" rx="17" fill="none" stroke="#24324C" stroke-width="2"/>
+
+  <g font-family="DejaVu Sans Mono, Consolas, Courier New, monospace">
+    <rect x="1" y="1" width="1198" height="48" rx="17" fill="#0D1422"/>
+    <path d="M1 48H1199" stroke="#24324C"/>
+    <circle cx="24" cy="24" r="5" fill="#FB7185"/>
+    <circle cx="44" cy="24" r="5" fill="#FBBF24"/>
+    <circle cx="64" cy="24" r="5" fill="#34D399"/>
+    <text x="600" y="29" text-anchor="middle" fill="#64748B" font-size="12">vitor@backend: ~/profile</text>
+    <g transform="translate(1084 16)">
+      <circle cx="5" cy="8" r="4" fill="#34D399">
+        <animate attributeName="opacity" values="1;.35;1" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="17" y="12" fill="#34D399" font-size="10" letter-spacing="1">AVAILABLE</text>
+    </g>
+
+    <g transform="translate(54 84)">
+      <text y="0" fill="#60A5FA" font-size="15">vitor@backend</text>
+      <text x="126" y="0" fill="#64748B" font-size="15">:</text>
+      <text x="138" y="0" fill="#A78BFA" font-size="15">~</text>
+      <text x="151" y="0" fill="#E2E8F0" font-size="15">$ whoami</text>
+
+      <text y="55" fill="#F8FAFC" font-size="39" font-weight="700">Vitor Ramos Menezes</text>
+      <text y="86" fill="#94A3B8" font-size="15">backend developer · ADS @ IFSP · APIs que resolvem operação real</text>
+
+      <text y="140" fill="#60A5FA" font-size="15">vitor@backend</text>
+      <text x="126" y="140" fill="#64748B" font-size="15">:</text>
+      <text x="138" y="140" fill="#A78BFA" font-size="15">~</text>
+      <text x="151" y="140" fill="#E2E8F0" font-size="15">$ cat focus.json</text>
+
+      <text y="178" fill="#64748B" font-size="14">{</text>
+      <text x="24" y="208" fill="#22D3EE" font-size="14">"core"</text>
+      <text x="88" y="208" fill="#64748B" font-size="14">:</text>
+      <text x="104" y="208" fill="#CBD5E1" font-size="14">"Python · FastAPI · SQL",</text>
+      <text x="24" y="238" fill="#22D3EE" font-size="14">"next"</text>
+      <text x="88" y="238" fill="#64748B" font-size="14">:</text>
+      <text x="104" y="238" fill="#CBD5E1" font-size="14">"C# · ASP.NET Core",</text>
+      <text x="24" y="268" fill="#22D3EE" font-size="14">"goal"</text>
+      <text x="88" y="268" fill="#64748B" font-size="14">:</text>
+      <text x="104" y="268" fill="#34D399" font-size="14">"estágio | backend júnior"</text>
+      <text y="298" fill="#64748B" font-size="14">}</text>
+
+      <text y="342" fill="#60A5FA" font-size="15">vitor@backend</text>
+      <text x="126" y="342" fill="#64748B" font-size="15">:</text>
+      <text x="138" y="342" fill="#A78BFA" font-size="15">~</text>
+      <text x="151" y="342" fill="#E2E8F0" font-size="15">$</text>
+      <rect x="167" y="326" width="9" height="21" fill="#22D3EE">
+        <animate attributeName="opacity" values="1;.12;1" dur="1.05s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <g transform="translate(770 76)">
+      <rect width="376" height="330" rx="14" fill="url(#card)" stroke="#293653"/>
+      <path d="M1 58H375" stroke="#24324C"/>
+      <rect x="24" y="24" width="5" height="14" rx="2.5" fill="url(#accent)"/>
+      <text x="42" y="36" fill="#94A3B8" font-size="11" letter-spacing="2">SYSTEM PROFILE</text>
+      <text x="350" y="36" text-anchor="end" fill="#475569" font-size="10">VR-2026</text>
+
+      <g transform="translate(26 82)">
+        <rect width="90" height="90" rx="18" fill="#0C1322" stroke="#3B82F6" stroke-opacity=".75"/>
+        <circle cx="45" cy="45" r="31" fill="none" stroke="#8B5CF6" stroke-opacity=".28"/>
+        <text x="45" y="55" text-anchor="middle" fill="#F8FAFC" font-size="28" font-weight="700" filter="url(#softGlow)">VR</text>
+      </g>
+
+      <text x="140" y="93" fill="#64748B" font-size="10" letter-spacing="1.4">ROLE</text>
+      <text x="140" y="116" fill="#F8FAFC" font-size="16" font-weight="700">BACKEND BUILDER</text>
+      <text x="140" y="145" fill="#64748B" font-size="10" letter-spacing="1.4">BASE</text>
+      <text x="140" y="168" fill="#CBD5E1" font-size="13">PYTHON / FASTAPI / SQL</text>
+
+      <text x="26" y="210" fill="#64748B" font-size="10" letter-spacing="1.5">CURRENT SIGNAL</text>
+
+      <g transform="translate(26 226)">
+        <rect width="324" height="34" rx="7" fill="#0B1423" stroke="#253653"/>
+        <circle cx="18" cy="17" r="5" fill="#8B5CF6"/>
+        <text x="34" y="21" fill="#E2E8F0" font-size="12">LEARNING</text>
+        <text x="302" y="21" text-anchor="end" fill="#A78BFA" font-size="11">C# + ASP.NET</text>
+      </g>
+
+      <g transform="translate(26 270)">
+        <rect width="324" height="34" rx="7" fill="#0B1423" stroke="#253653"/>
+        <circle cx="18" cy="17" r="5" fill="#22D3EE"/>
+        <text x="34" y="21" fill="#E2E8F0" font-size="12">SHIPPING</text>
+        <text x="302" y="21" text-anchor="end" fill="#67E8F9" font-size="11">REAL PROJECTS</text>
+      </g>
+    </g>
+
+    <text x="54" y="438" fill="#475569" font-size="10">[ PROFILE / BACKEND MODE ]</text>
+    <text x="1146" y="438" text-anchor="end" fill="#475569" font-size="10">BUILD · TEST · SHIP · IMPROVE</text>
+  </g>
+</svg>
