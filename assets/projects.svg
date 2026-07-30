@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title description">
+  <title id="title">Projetos de backend em destaque de Vitor Ramos Menezes</title>
+  <desc id="description">Vitrine visual dos projetos SIGTEC API e FastAPI Project.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070A12"/>
+      <stop offset=".5" stop-color="#0A1020"/>
+      <stop offset="1" stop-color="#090716"/>
+    </linearGradient>
+    <linearGradient id="cyanBlue" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#3B82F6"/>
+    </linearGradient>
+    <linearGradient id="blueViolet" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3B82F6"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#60A5FA" stroke-opacity=".035"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="380" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="380" rx="18" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="378" rx="17" fill="none" stroke="#24324C" stroke-width="2"/>
+
+  <g font-family="DejaVu Sans Mono, Consolas, Courier New, monospace">
+    <text x="30" y="37" fill="#22D3EE" font-size="13">$ ls ./featured-projects</text>
+    <text x="1170" y="37" text-anchor="end" fill="#475569" font-size="10">2 RESULTS</text>
+
+    <g transform="translate(30 64)">
+      <rect width="550" height="278" rx="14" fill="#0D1422" stroke="#28506A"/>
+      <rect width="550" height="5" rx="2.5" fill="url(#cyanBlue)"/>
+      <text x="24" y="38" fill="#67E8F9" font-size="10" letter-spacing="1.5">01 / FEATURED API</text>
+      <g transform="translate(462 22)">
+        <circle cx="6" cy="6" r="5" fill="#34D399">
+          <animate attributeName="opacity" values="1;.45;1" dur="2.2s" repeatCount="indefinite"/>
+        </circle>
+        <text x="20" y="10" fill="#34D399" font-size="9">PUBLIC</text>
+      </g>
+
+      <text x="24" y="81" fill="#F8FAFC" font-size="26" font-weight="700">SIGTEC API</text>
+      <text x="24" y="112" fill="#94A3B8" font-size="12">Gestão do parque tecnológico municipal:</text>
+      <text x="24" y="132" fill="#94A3B8" font-size="12">equipamentos, movimentações, histórico e acesso.</text>
+
+      <g transform="translate(24 158)">
+        <rect width="86" height="28" rx="6" fill="#102336" stroke="#1E6078"/>
+        <text x="43" y="18" text-anchor="middle" fill="#67E8F9" font-size="10">FASTAPI</text>
+        <rect x="96" width="76" height="28" rx="6" fill="#102336" stroke="#1E6078"/>
+        <text x="134" y="18" text-anchor="middle" fill="#67E8F9" font-size="10">MYSQL</text>
+        <rect x="182" width="106" height="28" rx="6" fill="#102336" stroke="#1E6078"/>
+        <text x="235" y="18" text-anchor="middle" fill="#67E8F9" font-size="10">SQLALCHEMY</text>
+        <rect x="298" width="68" height="28" rx="6" fill="#102336" stroke="#1E6078"/>
+        <text x="332" y="18" text-anchor="middle" fill="#67E8F9" font-size="10">JWT</text>
+      </g>
+
+      <path d="M24 211H526" stroke="#22324A"/>
+      <text x="24" y="239" fill="#CBD5E1" font-size="11">✓ arquitetura em camadas</text>
+      <text x="286" y="239" fill="#CBD5E1" font-size="11">✓ perfis e permissões</text>
+      <text x="24" y="263" fill="#CBD5E1" font-size="11">✓ autenticação e refresh</text>
+      <text x="286" y="263" fill="#CBD5E1" font-size="11">✓ migrations com Alembic</text>
+    </g>
+
+    <g transform="translate(620 64)">
+      <rect width="550" height="278" rx="14" fill="#0D1422" stroke="#473876"/>
+      <rect width="550" height="5" rx="2.5" fill="url(#blueViolet)"/>
+      <text x="24" y="38" fill="#C4B5FD" font-size="10" letter-spacing="1.5">02 / BACKEND LAB</text>
+      <g transform="translate(462 22)">
+        <circle cx="6" cy="6" r="5" fill="#A78BFA"/>
+        <text x="20" y="10" fill="#C4B5FD" font-size="9">PUBLIC</text>
+      </g>
+
+      <text x="24" y="81" fill="#F8FAFC" font-size="26" font-weight="700">FASTAPI PROJECT</text>
+      <text x="24" y="112" fill="#94A3B8" font-size="12">API modular para praticar autenticação, CRUD,</text>
+      <text x="24" y="132" fill="#94A3B8" font-size="12">validações, persistência e documentação automática.</text>
+
+      <g transform="translate(24 158)">
+        <rect width="82" height="28" rx="6" fill="#19162F" stroke="#51418A"/>
+        <text x="41" y="18" text-anchor="middle" fill="#C4B5FD" font-size="10">PYTHON</text>
+        <rect x="92" width="86" height="28" rx="6" fill="#19162F" stroke="#51418A"/>
+        <text x="135" y="18" text-anchor="middle" fill="#C4B5FD" font-size="10">FASTAPI</text>
+        <rect x="188" width="92" height="28" rx="6" fill="#19162F" stroke="#51418A"/>
+        <text x="234" y="18" text-anchor="middle" fill="#C4B5FD" font-size="10">PYDANTIC</text>
+        <rect x="290" width="78" height="28" rx="6" fill="#19162F" stroke="#51418A"/>
+        <text x="329" y="18" text-anchor="middle" fill="#C4B5FD" font-size="10">DOCKER</text>
+      </g>
+
+      <path d="M24 211H526" stroke="#2B2945"/>
+      <text x="24" y="239" fill="#CBD5E1" font-size="11">✓ CRUD completo</text>
+      <text x="286" y="239" fill="#CBD5E1" font-size="11">✓ hashing de senhas</text>
+      <text x="24" y="263" fill="#CBD5E1" font-size="11">✓ configuração por ambiente</text>
+      <text x="286" y="263" fill="#CBD5E1" font-size="11">✓ Swagger e ReDoc</text>
+    </g>
+
+    <text x="600" y="365" text-anchor="middle" fill="#475569" font-size="10">OPEN THE REPOSITORIES BELOW TO SEE THE CODE</text>
+  </g>
+</svg>
