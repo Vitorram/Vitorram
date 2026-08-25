@@ -11,9 +11,6 @@
   <a href="https://portfolio-master-nu-beige.vercel.app/">
     <img src="https://img.shields.io/badge/Portfólio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/>
   </a>
-  <a href="https://github.com/Vitorram">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
 </p>
 
 </div>
