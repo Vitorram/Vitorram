@@ -13,13 +13,13 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+##  Sobre mim
 
 Estudante de **Análise e Desenvolvimento de Sistemas no IFSP** e desenvolvedor focado em **Backend, APIs REST, bancos de dados e integração com Inteligência Artificial**.
 
 Tenho interesse em construir aplicações com **Java/Spring Boot, Python/FastAPI e LLMs**, buscando sempre melhorar arquitetura, organização e qualidade de código.
 
-## 🛠️ Minha Stack
+##  Minha Stack
 
 <div align="center">
 
@@ -37,7 +37,7 @@ Tenho interesse em construir aplicações com **Java/Spring Boot, Python/FastAPI
 
 </div>
 
-## 🚀 Projetos em destaque
+##  Projetos em destaque
 
 ### [SIGTEC API](https://github.com/Vitorram/Back-end-Hackthon)
 API REST para gerenciamento de equipamentos públicos, desenvolvida durante o **Hackathon IFSP 2026**.
