@@ -33,7 +33,7 @@ Tenho interesse em construir aplicações com **Java/Spring Boot, Python/FastAPI
 <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,git,github" />
 
 ### Inteligência Artificial
-<img src="https://skillicons.dev/icons?i=python,ollama" />
+<img src="https://skillicons.dev/icons?i=python" /> <img src="https://cdn.simpleicons.org/ollama" width="48" height="48" alt="Ollama" />
 
 </div>
 
