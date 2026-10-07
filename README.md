@@ -1,59 +1,69 @@
-<div align="center">
-
 # Vitor Menezes
 
-### Desenvolvedor Backend | ADS @ IFSP
+### Desenvolvedor Backend | Java • Spring Boot • Python • FastAPI • IA
 
-<p>
-  <a href="https://www.linkedin.com/in/vitor-ramos-menezes-a584291b0">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://portfolio-master-nu-beige.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfólio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/>
-  </a>
-</p>
+Estudante de **Análise e Desenvolvimento de Sistemas no IFSP** e desenvolvedor focado em construir APIs, aplicações web e integrações com Inteligência Artificial.
 
-</div>
+Tenho interesse principalmente em **Backend**, desenvolvimento de **APIs REST**, banco de dados e integração de aplicações com **LLMs**.
 
----
+## 🚀 Stack
 
+**Backend**
+- Java
+- Spring Boot
+- Python
+- FastAPI
+- Node.js
+- Express
 
-##  Stack
+**Frontend**
+- React
+- Next.js
+- TypeScript
+- JavaScript
+- Tailwind CSS
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,java,js,ts,react,nextjs,postgres,mysql,docker,aws,git" />
-</p>
+**Dados e infraestrutura**
+- MySQL
+- PostgreSQL
+- SQLAlchemy
+- JPA / Hibernate
+- Prisma
+- Docker
+- Git / GitHub
 
----
+**IA**
+- Spring AI
+- Ollama
+- LLMs
+- RAG / ferramentas e integrações com modelos
 
-##  Projetos em destaque
+## ⭐ Projetos em destaque
 
-###  SIGTEC API
-
-API REST desenvolvida para gerenciamento de equipamentos públicos durante o **Hackathon IFSP 2026**.
-
+### [SIGTEC API](https://github.com/Vitorram/Back-end-Hackthon)
+API REST desenvolvida para gerenciamento de equipamentos públicos no **Hackathon IFSP 2026**.
 `Python` `FastAPI` `MySQL` `JWT`
 
- [Ver projeto no GitHub](https://github.com/Vitorram/Back-end-Hackthon)
+### [Budgetting AI](https://github.com/Vitorram/budgetting_dio)
+API de controle financeiro com integração de Inteligência Artificial para consultas sobre transações e gastos.
+`Java` `Spring Boot` `Spring AI` `Ollama` `MySQL`
 
-###  FastAPI Project
+### [FastAPI Auth API](https://github.com/Vitorram/Api_FastAPI_completo)
+API com autenticação JWT, CRUD, migrations e persistência em banco de dados.
+`Python` `FastAPI` `SQLAlchemy` `Alembic` `MySQL` `Docker`
 
-Projeto focado em desenvolvimento backend com FastAPI, organização de APIs e integração com banco de dados.
+### [Bank Account Manager](https://github.com/Vitorram/GerenciadorContaBancaria)
+Projeto Java focado em fundamentos de POO, operações bancárias e organização de domínio.
+`Java` `POO` `Collections` `Streams`
 
-`Python` `FastAPI` `SQLAlchemy` `Alembic`
+### [Financial Dashboard](https://github.com/Vitorram/web2)
+Dashboard financeiro com API REST e persistência de transações.
+`Node.js` `Express` `Prisma` `MySQL`
 
- [Ver projeto no GitHub](https://github.com/Vitorram/Api_FastAPI_completo)
+### [Jeep Tamoios](https://github.com/Vitorram/jeeptamoios)
+Aplicação web desenvolvida com Next.js e React.
+`Next.js` `React` `TypeScript` `Tailwind CSS`
 
----
+## 🎓 Formação
 
-<div align="center">
-
-###  Conheça também meu portfólio
-
-[**https://vitor-ramos.vercel.app/**](https://vitor-ramos.vercel.app/)
-
-<br>
-
-<sub>Um bom lugar se constrói com humildade.</sub>
-
-</div>
+**Análise e Desenvolvimento de Sistemas — IFSP**
